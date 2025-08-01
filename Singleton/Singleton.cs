@@ -50,14 +50,7 @@ namespace GoFPatternsCSharp.Singleton
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-
-            Janela j1 = Janela.GetInstance();
-            j1.Show();
-
-            Janela j2 = Janela.GetInstance();
-            j2.Text = "Mesmo objeto: Singleton";
-            j2.Show();
-
+             
             Application.Run(j1);
         }
     }
