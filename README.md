@@ -62,4 +62,5 @@ Cada padrão está em sua própria pasta, com exemplos didáticos e documentaç�
 ---
 
 ## Autor
+Alex Nunes Feitoza 
 Projeto didático para estudo e demonstração dos padrões GoF em C#.
