@@ -1,3 +1,4 @@
+using Criacionais.FactoryMethod;
 using System;
 
 namespace GoFPatternsCSharp.FactoryMethod

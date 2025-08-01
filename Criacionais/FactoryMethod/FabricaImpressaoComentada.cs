@@ -1,3 +1,5 @@
+using Criacionais.FactoryMethod;
+
 namespace GoFPatternsCSharp.FactoryMethod
 {
     public class FabricaImpressaoComentada : FabricaImpressao
