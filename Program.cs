@@ -1,7 +1,7 @@
-﻿using GoFPatternsCSharp.FactoryMethod;
-using GoFPatternsCSharp.Singleton;
+﻿using Criacionais.Singleton;
 using GoFPatternsCSharp.AbstractFactory;
 using GoFPatternsCSharp.Builder;
+using GoFPatternsCSharp.FactoryMethod;
 using GoFPatternsCSharp.Prototype;
 
 class Program

@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace GoFPatternsCSharp.Singleton
+namespace Criacionais.Singleton
 {
     public class RepositorioHistoriasBiblicas
     {

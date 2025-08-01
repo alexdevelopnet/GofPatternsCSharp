@@ -1,6 +1,6 @@
 using System;
 
-namespace GoFPatternsCSharp.Singleton
+namespace Criacionais.Singleton
 {
     public class MinhaAppSingletonHistorias
     {

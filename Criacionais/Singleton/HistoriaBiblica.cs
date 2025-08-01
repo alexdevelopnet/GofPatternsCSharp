@@ -1,4 +1,4 @@
-namespace GoFPatternsCSharp.Singleton
+namespace Criacionais.Singleton
 {
     public class HistoriaBiblica
     {
