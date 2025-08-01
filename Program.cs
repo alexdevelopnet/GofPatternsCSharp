@@ -1,9 +1,44 @@
 ﻿using GoFPatternsCSharp.FactoryMethod;
+using GoFPatternsCSharp.Singleton;
 
 class Program
 {
     static void Main(string[] args)
     {
-        MinhaAppBiblia.Executar();
+        while (true)
+        {
+            Console.WriteLine("Escolha um exemplo para rodar:");
+            Console.WriteLine("1 - Factory Method: Impressão de Versículos");
+            Console.WriteLine("2 - Factory Method: Histórias Bíblicas");
+            Console.WriteLine("3 - Singleton: Repositório de Histórias");
+            Console.WriteLine("4 - Singleton: Arca de Noé");
+            Console.WriteLine("0 - Sair");
+            Console.Write("Opção: ");
+            var opcao = Console.ReadLine();
+            Console.WriteLine();
+
+            switch (opcao)
+            {
+                case "1":
+                    MinhaAppBiblia.Executar();
+                    break;
+                case "2":
+                    MinhaAppHistorias.Executar();
+                    break;
+                case "3":
+                    MinhaAppSingletonHistorias.Executar();
+                    break;
+                case "4":
+                    MinhaAppArcaDeNoe.Executar();
+                    break;
+                case "0":
+                    Console.WriteLine("Saindo...");
+                    return;
+                default:
+                    Console.WriteLine("Opção inválida!\n");
+                    break;
+            }
+            Console.WriteLine("-----------------------------\n");
+        }
     }
 }
