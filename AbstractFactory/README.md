@@ -8,6 +8,15 @@
 
 ---
 
+## Por que Moisés e Jesus?
+Neste exemplo, escolhemos **Moisés** (Antigo Testamento) e **Jesus** (Novo Testamento) para ilustrar o padrão Abstract Factory porque:
+- **Moisés** é símbolo do Antigo Testamento, liderança e libertação (travessia do Mar Vermelho).
+- **Jesus** é símbolo do Novo Testamento, provisão e salvação (multiplicação dos pães e peixes).
+- Cada fábrica (Antigo ou Novo Testamento) cria uma família de objetos (história + personagem) marcantes daquele contexto.
+- Isso mostra como o padrão permite trocar toda a “família” de objetos mudando apenas a fábrica, mantendo a relação entre eles.
+
+---
+
 ## O que é Abstract Factory?
 O Abstract Factory é um padrão criacional que permite criar famílias de objetos relacionados, sem especificar suas classes concretas. Ele separa a lógica de criação do uso dos objetos e garante que os objetos criados sejam compatíveis entre si.
 
