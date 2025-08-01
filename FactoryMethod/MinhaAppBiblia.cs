@@ -3,8 +3,8 @@ using System;
 namespace GoFPatternsCSharp.FactoryMethod
 {
     public class MinhaAppBiblia
-    {
-        public static void Main(string[] args)
+    { 
+        public static void Executar()
         {
             FabricaImpressao fabricaSimples = new FabricaImpressaoSimples();
             FabricaImpressao fabricaComentada = new FabricaImpressaoComentada();

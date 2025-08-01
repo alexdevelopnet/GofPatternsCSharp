@@ -15,3 +15,4 @@ C:\anf\net\gof\GoFPatternsCSharp\obj\Debug\net9.0\ref\GoFPatternsCSharp.dll
 C:\anf\net\gof\GoFPatternsCSharp\obj\Debug\net9.0\GoFPatternsCSharp.csproj.AssemblyReference.cache
 C:\anf\net\gof\GoFPatternsCSharp\bin\Debug\net9.0\System.Windows.Forms.dll
 C:\anf\net\gof\GoFPatternsCSharp\obj\Debug\net9.0\GoFPatte.1D137D3A.Up2Date
+C:\anf\net\gof\GoFPatternsCSharp\obj\Debug\net9.0\GoFPatternsCSharp.sourcelink.json
