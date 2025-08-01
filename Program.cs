@@ -2,6 +2,7 @@
 using GoFPatternsCSharp.Singleton;
 using GoFPatternsCSharp.AbstractFactory;
 using GoFPatternsCSharp.Builder;
+using GoFPatternsCSharp.Prototype;
 
 class Program
 {
@@ -16,6 +17,7 @@ class Program
             Console.WriteLine("4 - Singleton: Arca de Noé");
             Console.WriteLine("5 - Abstract Factory: Testamentos");
             Console.WriteLine("6 - Builder: Tabernáculo");
+            Console.WriteLine("7 - Prototype: Rolo das Escrituras");
             Console.WriteLine("0 - Sair");
             Console.Write("Opção: ");
             var opcao = Console.ReadLine();
@@ -40,6 +42,9 @@ class Program
                     break;
                 case "6":
                     MinhaAppBuilder.Executar();
+                    break;
+                case "7":
+                    MinhaAppPrototype.Executar();
                     break;
                 case "0":
                     Console.WriteLine("Saindo...");
