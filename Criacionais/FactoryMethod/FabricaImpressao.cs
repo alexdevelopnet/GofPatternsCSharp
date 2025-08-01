@@ -1,4 +1,4 @@
-namespace GoFPatternsCSharp.FactoryMethod
+namespace Criacionais.FactoryMethod
 {
     public abstract class FabricaImpressao
     {

@@ -1,6 +1,6 @@
 using System;
 
-namespace GoFPatternsCSharp.FactoryMethod
+namespace Criacionais.FactoryMethod
 {
     public class ImpressaoSimples : ImpressaoBiblica
     {
