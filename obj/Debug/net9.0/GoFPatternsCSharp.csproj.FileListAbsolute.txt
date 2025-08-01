@@ -1,0 +1,17 @@
+C:\anf\net\gof\GoFPatternsCSharp\bin\Debug\net9.0\GoFPatternsCSharp.exe
+C:\anf\net\gof\GoFPatternsCSharp\bin\Debug\net9.0\GoFPatternsCSharp.deps.json
+C:\anf\net\gof\GoFPatternsCSharp\bin\Debug\net9.0\GoFPatternsCSharp.runtimeconfig.json
+C:\anf\net\gof\GoFPatternsCSharp\bin\Debug\net9.0\GoFPatternsCSharp.dll
+C:\anf\net\gof\GoFPatternsCSharp\bin\Debug\net9.0\GoFPatternsCSharp.pdb
+C:\anf\net\gof\GoFPatternsCSharp\obj\Debug\net9.0\GoFPatternsCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\anf\net\gof\GoFPatternsCSharp\obj\Debug\net9.0\GoFPatternsCSharp.AssemblyInfoInputs.cache
+C:\anf\net\gof\GoFPatternsCSharp\obj\Debug\net9.0\GoFPatternsCSharp.AssemblyInfo.cs
+C:\anf\net\gof\GoFPatternsCSharp\obj\Debug\net9.0\GoFPatternsCSharp.csproj.CoreCompileInputs.cache
+C:\anf\net\gof\GoFPatternsCSharp\obj\Debug\net9.0\GoFPatternsCSharp.dll
+C:\anf\net\gof\GoFPatternsCSharp\obj\Debug\net9.0\refint\GoFPatternsCSharp.dll
+C:\anf\net\gof\GoFPatternsCSharp\obj\Debug\net9.0\GoFPatternsCSharp.pdb
+C:\anf\net\gof\GoFPatternsCSharp\obj\Debug\net9.0\GoFPatternsCSharp.genruntimeconfig.cache
+C:\anf\net\gof\GoFPatternsCSharp\obj\Debug\net9.0\ref\GoFPatternsCSharp.dll
+C:\anf\net\gof\GoFPatternsCSharp\obj\Debug\net9.0\GoFPatternsCSharp.csproj.AssemblyReference.cache
+C:\anf\net\gof\GoFPatternsCSharp\bin\Debug\net9.0\System.Windows.Forms.dll
+C:\anf\net\gof\GoFPatternsCSharp\obj\Debug\net9.0\GoFPatte.1D137D3A.Up2Date
