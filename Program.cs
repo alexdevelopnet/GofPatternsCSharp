@@ -1,6 +1,7 @@
 ﻿using GoFPatternsCSharp.FactoryMethod;
 using GoFPatternsCSharp.Singleton;
 using GoFPatternsCSharp.AbstractFactory;
+using GoFPatternsCSharp.Builder;
 
 class Program
 {
@@ -14,6 +15,7 @@ class Program
             Console.WriteLine("3 - Singleton: Repositório de Histórias");
             Console.WriteLine("4 - Singleton: Arca de Noé");
             Console.WriteLine("5 - Abstract Factory: Testamentos");
+            Console.WriteLine("6 - Builder: Tabernáculo");
             Console.WriteLine("0 - Sair");
             Console.Write("Opção: ");
             var opcao = Console.ReadLine();
@@ -35,6 +37,9 @@ class Program
                     break;
                 case "5":
                     MinhaAppAbstractFactory.Executar();
+                    break;
+                case "6":
+                    MinhaAppBuilder.Executar();
                     break;
                 case "0":
                     Console.WriteLine("Saindo...");
