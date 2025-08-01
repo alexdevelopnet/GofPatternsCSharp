@@ -1,5 +1,11 @@
 # Factory Method com Exemplo da Bíblia
 
+## Versículo relacionado ao Factory Method (muitos membros, diferentes funções)
+> “Porque assim como o corpo é um e tem muitos membros, e todos os membros, sendo muitos, constituem um só corpo, assim também com respeito a Cristo.”  
+> — 1 Coríntios 12:12
+
+**Explicação:** O Factory Method mostra que, a partir de uma mesma “fábrica” (corpo), podem surgir diferentes “produtos” (membros), cada um com sua função.
+
 Este exemplo demonstra o padrão de projeto **Factory Method** usando dois contextos didáticos: diferentes tipos de impressão de versículos bíblicos e diferentes tipos de histórias bíblicas.
 
 ## O que é Factory Method?
@@ -8,6 +14,12 @@ O Factory Method é um padrão criacional que define uma interface para criar um
 ---
 
 ## Exemplo 1: Impressão de Versículos
+
+### Versículo relacionado à impressão de versículos
+> “Ora, há diversidade de dons, mas o Espírito é o mesmo.”  
+> — 1 Coríntios 12:4
+
+**Explicação:** A mesma Palavra pode ser apresentada de formas diferentes, mas a origem (o Espírito) é a mesma.
 
 - **ImpressaoBiblica.cs**: Classe abstrata base para impressões de versículos (produto).
 - **ImpressaoSimples.cs**: Produto concreto para impressão simples.
@@ -39,6 +51,12 @@ O Factory Method é um padrão criacional que define uma interface para criar um
 ---
 
 ## Exemplo 2: Histórias da Bíblia (Milagre, Parábola, Profecia)
+
+### Versículo relacionado às histórias bíblicas
+> “Porque assim como o corpo é um e tem muitos membros, e todos os membros, sendo muitos, constituem um só corpo, assim também com respeito a Cristo.”  
+> — 1 Coríntios 12:12
+
+**Explicação:** O Factory Method mostra que, a partir de uma mesma “fábrica” (corpo), podem surgir diferentes “produtos” (membros), cada um com sua função.
 
 - **HistoriaBiblica.cs**: Classe abstrata base para histórias bíblicas (produto).
 - **Milagre.cs**: Produto concreto para história de milagre.
