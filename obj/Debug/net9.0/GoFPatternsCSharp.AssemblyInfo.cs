@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GoFPatternsCSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e7086613bb6c475adcad5c00bf64db391d2b461")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+981c692b129393fdf53a69297cdccf5212cb8fdd")]
 [assembly: System.Reflection.AssemblyProductAttribute("GoFPatternsCSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GoFPatternsCSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
